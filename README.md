@@ -8,7 +8,6 @@
   * [Technical Aspect](#technical-aspect)
   * [Installation](#installation)
   * [Run](#run)
-  * [Deployment on Heroku](#deployment-on-heroku)
   * [Directory Tree](#directory-tree)
   * [Technologies Used](#technologies-used)
   * [Credits](#credits)
