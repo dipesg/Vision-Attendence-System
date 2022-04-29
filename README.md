@@ -1,5 +1,5 @@
 # Vision-Attendence-System
-
+![gui](https://user-images.githubusercontent.com/75604769/157064553-8211231b-34a5-4b0d-b7b2-b3917651a00e.png)
 ## Table of Content
   * [Demo](#demo)
   * [Overview](#overview)
@@ -14,11 +14,7 @@
 
 
 ## Demo
-**GUI**
-
-![gui](https://user-images.githubusercontent.com/75604769/157064553-8211231b-34a5-4b0d-b7b2-b3917651a00e.png)
-
-![vision3](https://user-images.githubusercontent.com/75604769/157069312-1a8d53c2-26d8-4419-889b-63ece9feb340.png)
+![attendence](https://user-images.githubusercontent.com/75604769/165968941-57e5e36f-2572-4a26-9698-58f2626f1c97.gif)
 
 ## Overview
 This is a Vision Attendence System GUI trained on **Softmax Classifier**. Here in this GUI there is a button to take photo of user, train the model and detect.
